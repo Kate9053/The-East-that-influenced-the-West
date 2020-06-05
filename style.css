@@ -1,0 +1,60 @@
+.my_favorite{
+  display: inline-block;
+  width: 440px;
+  height: 315px;
+  background-color: gray;
+  background-image: url("https://dummyimage.com/300x180/555/fff.png");
+  background-size: cover;
+  background-repeat:no-repeat; 
+}
+h1{
+  font-family: sans-serif;
+  font-style: inherit;
+  text-align: center;
+  font-size: 400%;
+  color: #7515e2; 
+  
+}
+
+h2{
+  font-family:monospace;
+  text-align: center;
+  color:  #fcff34; 
+  border-bottom: 2px solid #fcff34; 
+  font-weight: normal; 
+  padding-bottom: 5px;
+  font-size: 250%;
+}
+.container{
+  text-align: center;
+}
+
+.film1{
+  background-image: url("https://i.pinimg.com/originals/12/f9/e9/12f9e937601c93195713b0f44a3c0fa5.jpg");
+}
+.film2{
+  background-image: url("https://i.pinimg.com/originals/05/cf/62/05cf62578f6b771642ef163220c42ecf.jpg");
+}
+
+.film3{
+  background-image: url("https://im0-tub-ru.yandex.net/i?id=bf2db10d67c843e0d2be446205d20aa1&n=13");
+}
+
+h3{
+  font-family:monospace;
+  text-align: center;
+  color: #3407ff; 
+  border-bottom: 2px solid #7515e2; 
+  font-weight: normal; 
+  padding-bottom: 5px; 
+  font-size: 250%;
+  font-weight: 600;
+
+}
+
+p{
+  color: #000000;
+  font-family:monospace;
+  font-size:20px;
+  font-weight:100;
+}
